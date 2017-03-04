@@ -6,24 +6,24 @@ All these games are licenced under the GPL 3.0 licence.
 
 ## Complete and maintained games
 
- * [BeerWanter](https://github.com/richelbilderbeek/Beerwanter)
- * [BeerWanter2](https://github.com/richelbilderbeek/BeerWanter2)
- * [Boenken](https://github.com/richelbilderbeek/Boenken)
- * [City Of Thieves](https://github.com/richelbilderbeek/CityOfThieves)
- * [ConnectThree](https://github.com/richelbilderbeek/ConnectThree)
- * [Das Wahre Schlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest)
- * [K3-Op-Een-Rij](https://github.com/richelbilderbeek/K3OpEenRij)
- * [LonelierPong](https://github.com/richelbilderbeek/LonelierPong)
- * [Maziak](https://github.com/richelbilderbeek/Maziak)
- * [Pron](https://github.com/richelbilderbeek/Pron)
- * [Prong](https://github.com/richelbilderbeek/Prong)
- * [ProPokeVolley](https://github.com/richelbilderbeek/ProPokeVolley)
- * [ProtonTank](https://github.com/richelbilderbeek/ProtonTank)
- * [Pylos](https://github.com/richelbilderbeek/Pylos) (also called 'Pyraos')
- * [Reversi](https://github.com/richelbilderbeek/Reversi)
- * [Rubik's Clock](https://github.com/richelbilderbeek/RubiksClock)
- * [SearchAndDestroyChess](https://github.com/richelbilderbeek/SearchAndDestroyChess)
- * [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/BeerWanter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/BeerWanter) [![codecov.io](https://codecov.io/github/richelbilderbeek/BeerWanter/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/BeerWanter?branch=master) [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/BeerWanter2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/BeerWanter2) [![codecov.io](https://codecov.io/github/richelbilderbeek/BeerWanter2/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/BeerWanter2?branch=master) [BeerWanter2](https://github.com/richelbilderbeek/BeerWanter2)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Boenken.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Boenken) [![codecov.io](https://codecov.io/github/richelbilderbeek/Boenken/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Boenken?branch=master) [Boenken](https://github.com/richelbilderbeek/Boenken)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/CityOfThieves.svg?branch=master)](https://travis-ci.org/richelbilderbeek/CityOfThieves) [![codecov.io](https://codecov.io/github/richelbilderbeek/CityOfThieves/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/CityOfThieves?branch=master) [CityOfThieves](https://github.com/richelbilderbeek/CityOfThieves)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/ConnectThree.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ConnectThree) [![codecov.io](https://codecov.io/github/richelbilderbeek/ConnectThree/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ConnectThree?branch=master) [ConnectThree](https://github.com/richelbilderbeek/ConnectThree)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/DasWahreSchlagerfest.svg?branch=master)](https://travis-ci.org/richelbilderbeek/DasWahreSchlagerfest) [![codecov.io](https://codecov.io/github/richelbilderbeek/DasWahreSchlagerfest/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/DasWahreSchlagerfest?branch=master) [DasWahreSchlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/K3OpEenRij.svg?branch=master)](https://travis-ci.org/richelbilderbeek/K3OpEenRij) [![codecov.io](https://codecov.io/github/richelbilderbeek/K3OpEenRij/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/K3OpEenRij?branch=master) [K3OpEenRij](https://github.com/richelbilderbeek/K3OpEenRij)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/LonelierPong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/LonelierPong) [![codecov.io](https://codecov.io/github/richelbilderbeek/LonelierPong/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/LonelierPong?branch=master) [LonelierPong](https://github.com/richelbilderbeek/LonelierPong)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Maziak.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Maziak) [![codecov.io](https://codecov.io/github/richelbilderbeek/Maziak/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Maziak?branch=master) [Maziak](https://github.com/richelbilderbeek/Maziak)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Pron.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Pron) [![codecov.io](https://codecov.io/github/richelbilderbeek/Pron/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Pron?branch=master) [Pron](https://github.com/richelbilderbeek/Pron)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Prong) [![codecov.io](https://codecov.io/github/richelbilderbeek/Prong/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Prong?branch=master) [Prong](https://github.com/richelbilderbeek/Prong)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/ProPokeVolley.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProPokeVolley) [![codecov.io](https://codecov.io/github/richelbilderbeek/ProPokeVolley/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ProPokeVolley?branch=master) [ProPokeVolley](https://github.com/richelbilderbeek/ProPokeVolley)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProtonTank) [![codecov.io](https://codecov.io/github/richelbilderbeek/ProtonTank/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ProtonTank?branch=master) [ProtonTank](https://github.com/richelbilderbeek/ProtonTank)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Pylos.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Pylos) [![codecov.io](https://codecov.io/github/richelbilderbeek/Pylos/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Pylos?branch=master) [Pylos](https://github.com/richelbilderbeek/Pylos)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Reversi.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Reversi) [![codecov.io](https://codecov.io/github/richelbilderbeek/Reversi/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Reversi?branch=master) [Reversi](https://github.com/richelbilderbeek/Reversi)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/RubiksClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/RubiksClock) [RubiksClock](https://github.com/richelbilderbeek/RubiksClock)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/SearchAndDestroyChess.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SearchAndDestroyChess) [![codecov.io](https://codecov.io/github/richelbilderbeek/SearchAndDestroyChess/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SearchAndDestroyChess?branch=master) [SearchAndDestroyChess](https://github.com/richelbilderbeek/SearchAndDestroyChess)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/TicTacToe.svg?branch=master)](https://travis-ci.org/richelbilderbeek/TicTacToe) [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
 
 ## Complete, but unmaintained games
 
@@ -49,8 +49,8 @@ cross-platform using the Qt library.
 
 The games I wish I had made, and had to port myself to enjoy them.
 
- * [Corridor](https://github.com/richelbilderbeek/Corridor)
- * [Zork (also known as 'Dungeon')](https://github.com/richelbilderbeek/Zork)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Corridor.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Corridor) [![codecov.io](https://codecov.io/github/richelbilderbeek/Corridor/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Corridor?branch=master) [Corridor](https://github.com/richelbilderbeek/Corridor)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Zork.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Zork) [Zork](https://github.com/richelbilderbeek/Zork)
 
 ## Games by others that I host the code of
 
@@ -76,13 +76,14 @@ The games I wish I had made...
 
 ## Incomplete and actively worked on
  
- * [Amino Acid Fighter](https://github.com/richelbilderbeek/TankBattalion)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/AminoAcidFighter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/AminoAcidFighter) [![codecov.io](https://codecov.io/github/richelbilderbeek/AminoAcidFighter/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/AminoAcidFighter?branch=master) [AminoAcidFighter](https://github.com/richelbilderbeek/AminoAcidFighter)
 
 ## Incomplete and maintained
  
  * [Dissolved](https://github.com/richelbilderbeek/Dissolved)
  * [Eukaryote](https://github.com/richelbilderbeek/Eukaryote)
- * [Tank Battalion](https://github.com/richelbilderbeek/TankBattalion)
  * [EverythingToPiecesShooter](https://github.com/richelbilderbeek/EverythingToPiecesShooter)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/SimpleKeeper.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimpleKeeper) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimpleKeeper/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimpleKeeper?branch=master) [SimpleKeeper](https://github.com/richelbilderbeek/SimpleKeeper)
+ * [Tank Battalion](https://github.com/richelbilderbeek/TankBattalion)
  * [XeNonZero](https://github.com/richelbilderbeek/XeNonZero)
 
