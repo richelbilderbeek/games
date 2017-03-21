@@ -30,6 +30,11 @@ All these games are licenced under the GPL 3.0 licence.
  * [![Build Status](https://travis-ci.org/richelbilderbeek/ProPokeVolley.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProPokeVolley)  [ProPokeVolley](https://github.com/richelbilderbeek/ProPokeVolley)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProtonTank)  [ProtonTank](https://github.com/richelbilderbeek/ProtonTank)
 
+## Incomplete and actively worked on
+ 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/AminoAcidFighter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/AminoAcidFighter) [![codecov.io](https://codecov.io/github/richelbilderbeek/AminoAcidFighter/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/AminoAcidFighter?branch=master) [AminoAcidFighter](https://github.com/richelbilderbeek/AminoAcidFighter)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/SimpleKeeper.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimpleKeeper) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimpleKeeper/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimpleKeeper?branch=master) [SimpleKeeper](https://github.com/richelbilderbeek/SimpleKeeper)
+
 ## Complete, but unmaintained games
 
 Most of these use the Windows-only VCL library. Most of these I made
@@ -54,7 +59,7 @@ cross-platform using the Qt library.
 
 The games I wish I had made, and had to port myself to enjoy them.
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/Corridor.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Corridor) [![codecov.io](https://codecov.io/github/richelbilderbeek/Corridor/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Corridor?branch=master) [Corridor](https://github.com/richelbilderbeek/Corridor)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/Corridor.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Corridor) [Corridor](https://github.com/richelbilderbeek/Corridor)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/Zork.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Zork) [Zork](https://github.com/richelbilderbeek/Zork)
 
 ## Games by others that I host the code of
@@ -79,16 +84,11 @@ The games I wish I had made...
 
  * [Meritous](https://github.com/richelbilderbeek/Meritous)
 
-## Incomplete and actively worked on
- 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/AminoAcidFighter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/AminoAcidFighter) [![codecov.io](https://codecov.io/github/richelbilderbeek/AminoAcidFighter/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/AminoAcidFighter?branch=master) [AminoAcidFighter](https://github.com/richelbilderbeek/AminoAcidFighter)
-
 ## Incomplete and maintained
  
  * [Dissolved](https://github.com/richelbilderbeek/Dissolved)
  * [Eukaryote](https://github.com/richelbilderbeek/Eukaryote)
  * [EverythingToPiecesShooter](https://github.com/richelbilderbeek/EverythingToPiecesShooter)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/SimpleKeeper.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimpleKeeper) [![codecov.io](https://codecov.io/github/richelbilderbeek/SimpleKeeper/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/SimpleKeeper?branch=master) [SimpleKeeper](https://github.com/richelbilderbeek/SimpleKeeper)
  * [Tank Battalion](https://github.com/richelbilderbeek/TankBattalion)
  * [XeNonZero](https://github.com/richelbilderbeek/XeNonZero)
 
