@@ -25,6 +25,7 @@ All these games are licenced under the GPL 3.0 licence.
 ### Processing
 
  * [![Build Status](https://travis-ci.org/richelbilderbeek/BeerWanter2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/BeerWanter2) [BeerWanter2](https://github.com/richelbilderbeek/BeerWanter2)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/black_box.svg?branch=master)](https://travis-ci.org/richelbilderbeek/black_box) [Black Box](https://github.com/richelbilderbeek/black_box)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/LonelierPong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/LonelierPong) [LonelierPong](https://github.com/richelbilderbeek/LonelierPong)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/Pron.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Pron) [Pron](https://github.com/richelbilderbeek/Pron)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Prong)  [Prong](https://github.com/richelbilderbeek/Prong)
