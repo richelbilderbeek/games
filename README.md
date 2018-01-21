@@ -69,6 +69,7 @@ The games I wish I had made, and had to port myself to enjoy them.
 The games made by others I host the code of. No coding from me was
 involved in these games.
 
+ * [hunting_game](https://github.com/richelbilderbeek/hunting_game)
  * [Martian Cafe Tuinema Tycoon](https://github.com/richelbilderbeek/MartianCafeTuinemaTycoon)
  * [Public Toilet Manager 5](https://github.com/richelbilderbeek/PublicToiletManager5)
  * [Wizard Battle](https://github.com/richelbilderbeek/WizardBattle)
