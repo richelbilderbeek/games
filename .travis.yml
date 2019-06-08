@@ -1,0 +1,12 @@
+dist: xenial
+
+install:
+  # Check dead links
+  - sudo apt-get install -qq npm
+  - npm config set strict-ssl false
+  - sudo npm install -g markdown-link-check
+
+script:
+  # Check dead links
+  - rm .travis.yml
+  - ./check_dead_links
