@@ -4,6 +4,11 @@ My collection of games.
 
 All these games are licenced under the GPL 3.0 licence.
 
+This page consists of:
+
+ * Gallery: graphical overview of all my games
+ * Build statuses: show the build statuses of all of my games
+
 ## Gallery
 
 Ordered alphabetically
@@ -43,6 +48,10 @@ Ordered alphabetically
 
 ### [GameOfLifeFighter](https://gitlab.com/luckeyproductions/GameOfLifeFighter)
 
+![](GameOfLifeFighterQt20150913.png)
+![](GameOfLifeFighterSfml20150925.png)
+![](GameOfLifeFighterUrho3D20150925.png)
+
 ### [K3OpEenRij](https://github.com/richelbilderbeek/K3OpEenRij)
 
 ![](GameK3OpEenRij_4_0.png)
@@ -65,12 +74,6 @@ Ordered alphabetically
 
 ![](GameMaziak_1_3.png)
 ![](GameMaziak_2_0.png)
-
-### [GameOfLifeFighter](https://gitlab.com/luckeyproductions/GameOfLifeFighter)
-
-![](GameOfLifeFighterQt20150913.png)
-![](GameOfLifeFighterSfml20150925.png)
-![](GameOfLifeFighterUrho3D20150925.png)
 
 ### [PokeVolley](https://github.com/richelbilderbeek/PokeVolley)
 
