@@ -75,7 +75,7 @@ Ordered alphabetically
 ![](GameMaziak_1_3.png)
 ![](GameMaziak_2_0.png)
 
-### [PokeVolley](https://github.com/richelbilderbeek/PokeVolley)
+### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
 
 ![](GamePokeVolley_2_0.png)
 
@@ -186,15 +186,15 @@ cross-platform using the Qt library.
  * [Boenken (VCL)](https://github.com/richelbilderbeek/BoenkenVcl)
  * [Das Wahre Schlagerfest (VCL)](https://github.com/richelbilderbeek/DasWahreSchlagerfestVcl)
  * [K3-Op-Een-Rij (VCL)](https://github.com/richelbilderbeek/K3OpEenRijVcl)
- * [Knokfighter (VCL)](https://github.com/richelbilderbeek/KnokfighterVcl)
+ * [Knokfighter (VCL)](https://github.com/richelbilderbeek/Knokfighter)
  * [Maziak (VCL)](https://github.com/richelbilderbeek/MaziakVcl)
  * [Met Z'n Drieen (VCL)](https://github.com/richelbilderbeek/MetZnDrieenVcl) (Dutch)
  * [PokeVolley (VCL)](https://github.com/richelbilderbeek/PokeVolleyVcl)
  * [Reversi Console (VCL)](https://github.com/richelbilderbeek/ReversiConsoleVcl)
  * [Rubik's Clock (VCL)](https://github.com/richelbilderbeek/RubiksClockVcl)
  * [SearchAndDestroyChess (VCL)](https://github.com/richelbilderbeek/SearchAndDestroyChessVcl)
- * [SimPredator (VCL)](https://github.com/richelbilderbeek/SimPredatorVcl)
- * [SpaceHarry (VCL)](https://github.com/richelbilderbeek/SpaceHarryVcl)
+ * [SimPredator (VCL)](https://github.com/richelbilderbeek/SimPredator)
+ * [SpaceHarry (VCL)](https://github.com/richelbilderbeek/SpaceHarry)
  * [The Tron Collection (VCL)](https://github.com/richelbilderbeek/TronCollectionVcl)
 
 ## Completed games by others that I ported
@@ -209,17 +209,16 @@ The games I wish I had made, and had to port myself to enjoy them.
 The games made by others I host the code of. No coding from me was
 involved in these games.
 
- * [hunting_game](https://github.com/richelbilderbeek/hunting_game)
  * [Martian Cafe Tuinema Tycoon](https://github.com/richelbilderbeek/MartianCafeTuinemaTycoon)
- * [Public Toilet Manager 5](https://github.com/richelbilderbeek/PublicToiletManager5)
+ * [Public Toilet Manager 5](https://github.com/richelbilderbeek/PublicToiletManager)
  * [Wizard Battle](https://github.com/richelbilderbeek/WizardBattle)
 
 ## Games by others I cheated at
 
 The games made by others that I created a cheat or trainer for.
 
- * [Astro Menace](https://github.com/richelbilderbeek/AstroMenace)
- * [Breath Of Fire 2](https://github.com/richelbilderbeek/BreathOfFire2)
+ * [Astro Menace](https://github.com/richelbilderbeek/AstroMenaceCheat)
+ * [Breath Of Fire 2](https://github.com/richelbilderbeek/BreathOfFire2Trainer)
 
 ## Games by others
 
