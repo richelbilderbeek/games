@@ -145,6 +145,10 @@ Ordered alphabetically
 ![](GameSearchAndDestroyChess_2_0.png)
 ![](GameSearchAndDestroyChess_3_1.png)
 
+### [Sim Equation](https://github.com/richelbilderbeek/sim_equation)
+
+![](sim_equation.png)
+
 ### [SpaceHarry](https://github.com/richelbilderbeek/SpaceHarry)
 
 ![](GameSpaceHarry_1_0.png)
