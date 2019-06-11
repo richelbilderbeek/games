@@ -44,7 +44,7 @@ Ordered alphabetically
 
 ### [Carnaval Tic-Tac-Toe](https://github.com/richelbilderbeek/carnaval_tic_tac_toe)
 
-![](GameBoenken_1_0.png)
+![](carnaval_tic_tac_toe.png)
 
 ### [CityOfThieves](https://github.com/richelbilderbeek/CityOfThieves)
 
@@ -102,6 +102,10 @@ Ordered alphabetically
 ### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
 
 ![](GamePokeVolley_2_0.png)
+
+### [Pong 3D](https://github.com/richelbilderbeek/pong_3d)
+
+![](pong_3d.png)
 
 ### [Pron](https://github.com/richelbilderbeek/Pron)
 
