@@ -17,14 +17,30 @@ Ordered alphabetically
 
 ![](GameAminoAcidFighter_0_9.png)
 
+### [Beer simulation game](https://github.com/richelbilderbeek/beer_sim)
+
+![](beer_sim.png)
+
 ### [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
 
 ![](GameBeerWanter2.png)
+
+### [BeerWanterVcl](https://github.com/richelbilderbeek/BeerWanterVcl)
+
+![](BeerWanterVcl_3_0.png)
+
+### [black_box](https://github.com/richelbilderbeek/black_box)
+
+![](black_box.png)
 
 ### [Boenken](https://github.com/richelbilderbeek/Boenken)
 
 ![](GameBoenken_1_0.png)
 ![](GameBoenken_4_1.png)
+
+### [Carnaval Tic-Tac-Toe](https://github.com/richelbilderbeek/carnaval_tic_tac_toe)
+
+![](GameBoenken_1_0.png)
 
 ### [CityOfThieves](https://github.com/richelbilderbeek/CityOfThieves)
 
@@ -51,6 +67,10 @@ Ordered alphabetically
 ![](GameOfLifeFighterQt20150913.png)
 ![](GameOfLifeFighterSfml20150925.png)
 ![](GameOfLifeFighterUrho3D20150925.png)
+
+### [hunter_game](https://github.com/richelbilderbeek/hunter_game)
+
+![](hunter_game.png)
 
 ### [K3OpEenRij](https://github.com/richelbilderbeek/K3OpEenRij)
 
