@@ -23,6 +23,10 @@ Ordered alphabetically
 
 ### [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
 
+![](BeerWanter_7_4.png)
+
+### [BeerWanter 2](https://github.com/richelbilderbeek/BeerWanter2)
+
 ![](GameBeerWanter2.png)
 
 ### [BeerWanterVcl](https://github.com/richelbilderbeek/BeerWanterVcl)
