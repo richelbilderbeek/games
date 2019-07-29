@@ -9,4 +9,4 @@ install:
 script:
   # Check dead links
   - rm .travis.yml
-  - ./check_dead_links
+  - ./scripts/check_dead_links
