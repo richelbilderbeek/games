@@ -15,165 +15,165 @@ Ordered alphabetically
 
 ### [AminoAcidFighter](https://github.com/richelbilderbeek/AminoAcidFighter)
 
-![](GameAminoAcidFighter_0_9.png)
+![](pics/GameAminoAcidFighter_0_9.png)
 
 ### [Beer simulation game](https://github.com/richelbilderbeek/beer_sim)
 
-![](beer_sim.png)
+![](pics/beer_sim.png)
 
 ### [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
 
-![](BeerWanter_7_4.png)
+![](pics/BeerWanter_7_4.png)
 
 ### [BeerWanter 2](https://github.com/richelbilderbeek/BeerWanter2)
 
-![](GameBeerWanter2.png)
+![](pics/GameBeerWanter2.png)
 
 ### [BeerWanterVcl](https://github.com/richelbilderbeek/BeerWanterVcl)
 
-![](BeerWanterVcl_3_0.png)
+![](pics/BeerWanterVcl_3_0.png)
 
 ### [black_box](https://github.com/richelbilderbeek/black_box)
 
-![](black_box.png)
+![](pics/black_box.png)
 
 ### [Boenken](https://github.com/richelbilderbeek/Boenken)
 
-![](GameBoenken_1_0.png)
-![](GameBoenken_4_1.png)
+![](pics/GameBoenken_1_0.png)
+![](pics/GameBoenken_4_1.png)
 
 ### [Carnaval Tic-Tac-Toe](https://github.com/richelbilderbeek/carnaval_tic_tac_toe)
 
-![](carnaval_tic_tac_toe.png)
+![](pics/carnaval_tic_tac_toe.png)
 
 ### [CityOfThieves](https://github.com/richelbilderbeek/CityOfThieves)
 
-![](GameCityOfThievesNds.jpg)
-![](GameCityOfThievesConsole.png)
-![](GameCityOfThievesDesktop.png)
+![](pics/GameCityOfThievesNds.jpg)
+![](pics/GameCityOfThievesConsole.png)
+![](pics/GameCityOfThievesDesktop.png)
 
 ### [ConnectThree](https://github.com/richelbilderbeek/ConnectThree)
 
-![](GameConnectThree_5_2.png)
-![](GameConnectThree_6_0.png)
+![](pics/GameConnectThree_5_2.png)
+![](pics/GameConnectThree_6_0.png)
 
 ### [Corridor](https://github.com/richelbilderbeek/Corridor)
 
-![](GameCorridor.png)
+![](pics/GameCorridor.png)
 
 ### [DasWahreSchlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest)
 
-![](GameDasWahreSchlagerfest_1_0.png)
-![](GameDasWahreSchlagerfest_2_2.png)
+![](pics/GameDasWahreSchlagerfest_1_0.png)
+![](pics/GameDasWahreSchlagerfest_2_2.png)
 
 ### [GameOfLifeFighter](https://gitlab.com/luckeyproductions/GameOfLifeFighter)
 
-![](GameOfLifeFighterQt20150913.png)
-![](GameOfLifeFighterSfml20150925.png)
-![](GameOfLifeFighterUrho3D20150925.png)
+![](pics/GameOfLifeFighterQt20150913.png)
+![](pics/GameOfLifeFighterSfml20150925.png)
+![](pics/GameOfLifeFighterUrho3D20150925.png)
 
 ### [hunter_game](https://github.com/richelbilderbeek/hunter_game)
 
-![](hunter_game.png)
+![](pics/hunter_game.png)
 
 ### [K3OpEenRij](https://github.com/richelbilderbeek/K3OpEenRij)
 
-![](GameK3OpEenRij_4_0.png)
-![](GameK3OpEenRij_5_0.png)
-![](GameK3OpEenRij_7_0.png)
+![](pics/GameK3OpEenRij_4_0.png)
+![](pics/GameK3OpEenRij_5_0.png)
+![](pics/GameK3OpEenRij_7_0.png)
 
 ### [Knokfighter](https://github.com/richelbilderbeek/Knokfighter)
 
-![](GameKnokfighter_1_0.png)
+![](pics/GameKnokfighter_1_0.png)
 
 ### [LonelierPong](https://github.com/richelbilderbeek/LonelierPong)
 
-![](GameLonelierPong_1_0.png)
+![](pics/GameLonelierPong_1_0.png)
 
 ### [MartianCafeTuinemaTycoon](https://github.com/richelbilderbeek/MartianCafeTuinemaTycoon)
 
-![](GameMartianCafeTuinemaTycoon_1_0.png)
+![](pics/GameMartianCafeTuinemaTycoon_1_0.png)
 
 ### [Maziak](https://github.com/richelbilderbeek/Maziak)
 
-![](GameMaziak_1_3.png)
-![](GameMaziak_2_0.png)
+![](pics/GameMaziak_1_3.png)
+![](pics/GameMaziak_2_0.png)
 
 ### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
 
-![](GamePokeVolley_2_0.png)
+![](pics/GamePokeVolley_2_0.png)
 
 ### [Pong 3D](https://github.com/richelbilderbeek/pong_3d)
 
-![](pong_3d.png)
+![](pics/pong_3d.png)
 
 ### [Pron](https://github.com/richelbilderbeek/Pron)
 
-![](GamePron_1_0.png)
+![](pics/GamePron_1_0.png)
 
 ### [Prong](https://github.com/richelbilderbeek/Prong)
 
-![](GameProng_1_0.png)
+![](pics/GameProng_1_0.png)
 
 ### [ProPokeVolley](https://github.com/richelbilderbeek/ProPokeVolley)
 
-![](GameProPokeVolley_1_0.png)
+![](pics/GameProPokeVolley_1_0.png)
 
 ### [ProtonTank](https://github.com/richelbilderbeek/ProtonTank)
 
-![](GameProtonTank_1_0.png)
+![](pics/GameProtonTank_1_0.png)
 
 ### [PublicToiletManager](https://github.com/richelbilderbeek/PublicToiletManager)
 
-![](GamePublicToiletManager_5_0.png)
+![](pics/GamePublicToiletManager_5_0.png)
 
 ### [Pylos](https://github.com/richelbilderbeek/Pylos)
 
-![](GamePylos_2_1.png)
+![](pics/GamePylos_2_1.png)
 
 ### [Reversi](https://github.com/richelbilderbeek/Reversi)
 
-![](GameReversi_0_1.png)
+![](pics/GameReversi_0_1.png)
 
 ### [ReversiVcl](https://github.com/richelbilderbeek/ReversiVcl)
 
-![](GameReversiVcl_1_0.png)
+![](pics/GameReversiVcl_1_0.png)
 
 ### [RubiksClock](https://github.com/richelbilderbeek/RubiksClock)
 
-![](GameRubiksClock_2_1.png)
-![](GameRubiksClock_2_3.png)
+![](pics/GameRubiksClock_2_1.png)
+![](pics/GameRubiksClock_2_3.png)
 
 ### [SearchAndDestroyChess](https://github.com/richelbilderbeek/SearchAndDestroyChess)
 
-![](GameSearchAndDestroyChess_2_0.png)
-![](GameSearchAndDestroyChess_3_1.png)
+![](pics/GameSearchAndDestroyChess_2_0.png)
+![](pics/GameSearchAndDestroyChess_3_1.png)
 
 ### [Sim Equation](https://github.com/richelbilderbeek/sim_equation)
 
-![](sim_equation.png)
+![](pics/sim_equation.png)
 
 ### [SpaceHarry](https://github.com/richelbilderbeek/SpaceHarry)
 
-![](GameSpaceHarry_1_0.png)
+![](pics/GameSpaceHarry_1_0.png)
 
 ### [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
 
-![](GameTicTacToe_1_4.png)
-![](GameTicTacToe_1_5.png)
+![](pics/GameTicTacToe_1_4.png)
+![](pics/GameTicTacToe_1_5.png)
 
 ### [TronCollection](https://github.com/richelbilderbeek/TronCollection)
 
-![](GameTronCollectionClassicTron_0_9.png)
-![](GameTronCollectionSuperTron_0_9.png)
+![](pics/GameTronCollectionClassicTron_0_9.png)
+![](pics/GameTronCollectionSuperTron_0_9.png)
 
 ### [WizardBattle](https://github.com/richelbilderbeek/WizardBattle)
 
-![](GameWizardBattle_1_0.png)
+![](pics/GameWizardBattle_1_0.png)
 
 ### [Zork](https://github.com/richelbilderbeek/Zork)
 
-![](GameZork.png)
+![](pics/GameZork.png)
 
 ## Complete and maintained games
 
