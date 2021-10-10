@@ -101,8 +101,8 @@ Ordered alphabetically
 
 ### [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
 
-A god simulator by the DJOG Uno's 2019 team in C++
-that we put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
+A god simulator by Team Octane,
+which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
 
 ![](pics/NatureZen20190530.png)
 
