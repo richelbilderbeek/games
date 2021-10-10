@@ -99,6 +99,13 @@ Ordered alphabetically
 ![](pics/GameMaziak_1_3.png)
 ![](pics/GameMaziak_2_0.png)
 
+### [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
+
+A god simulator by the DJOG Uno's 2019 team in C++
+that we put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
+
+![](NatureZen20190530.png)
+
 ### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
 
 ![](pics/GamePokeVolley_2_0.png)
@@ -156,6 +163,13 @@ Ordered alphabetically
 ### [SpaceHarry](https://github.com/richelbilderbeek/SpaceHarry)
 
 ![](pics/GameSpaceHarry_1_0.png)
+
+### [Tank Battalion](https://github.com/djog/tank_battalion)
+
+A recreation of the arcade game Tank Battalion 
+by the DJOG Uno's 2020 team in Processing.
+
+![](TankBattalion20201213.png)
 
 ### [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
 
