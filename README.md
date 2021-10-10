@@ -104,7 +104,7 @@ Ordered alphabetically
 A god simulator by the DJOG Uno's 2019 team in C++
 that we put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
 
-![](NatureZen20190530.png)
+![](pics/NatureZen20190530.png)
 
 ### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
 
@@ -169,7 +169,7 @@ that we put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
 A recreation of the arcade game Tank Battalion 
 by the DJOG Uno's 2020 team in Processing.
 
-![](TankBattalion20201213.png)
+![](pics/TankBattalion20201213.png)
 
 ### [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
 
