@@ -61,7 +61,9 @@ Ordered alphabetically
 
 ![](pics/conquer_chess_20220807_1.png)
 
-### [Corridor](https://github.com/richelbilderbeek/Corridor)
+### [Corridor](https://github.com/gnudles/corridor)
+
+A game by gnudles, that I ported to Qt Creator.
 
 ![](pics/GameCorridor.png)
 
@@ -72,11 +74,15 @@ Ordered alphabetically
 
 ### [GameOfLifeFighter](https://gitlab.com/luckeyproductions/GameOfLifeFighter)
 
+A game I made together with Frode Lindeijer.
+
 ![](pics/GameOfLifeFighterQt20150913.png)
 ![](pics/GameOfLifeFighterSfml20150925.png)
 ![](pics/GameOfLifeFighterUrho3D20150925.png)
 
 ### [hunter_game](https://github.com/richelbilderbeek/hunter_game)
+
+A game by Rolf F. Storms.
 
 ![](pics/hunter_game.png)
 
@@ -88,6 +94,8 @@ Ordered alphabetically
 
 ### [Knokfighter](https://github.com/richelbilderbeek/Knokfighter)
 
+A game I made together with Joost van den Bogaart.
+
 ![](pics/GameKnokfighter_1_0.png)
 
 ### [LonelierPong](https://github.com/richelbilderbeek/LonelierPong)
@@ -95,6 +103,8 @@ Ordered alphabetically
 ![](pics/GameLonelierPong_1_0.png)
 
 ### [MartianCafeTuinemaTycoon](https://github.com/richelbilderbeek/MartianCafeTuinemaTycoon)
+
+A game by Joost van den Bogaart.
 
 ![](pics/GameMartianCafeTuinemaTycoon_1_0.png)
 
@@ -135,6 +145,8 @@ which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/)
 ![](pics/GameProtonTank_1_0.png)
 
 ### [PublicToiletManager](https://github.com/richelbilderbeek/PublicToiletManager)
+
+A game by Joost van den Bogaart.
 
 ![](pics/GamePublicToiletManager_5_0.png)
 
@@ -187,9 +199,14 @@ by the DJOG Uno's 2020 team in Processing.
 
 ### [WizardBattle](https://github.com/richelbilderbeek/WizardBattle)
 
+A game by Joost van den Bogaart.
+
 ![](pics/GameWizardBattle_1_0.png)
 
 ### [Zork](https://github.com/richelbilderbeek/Zork)
+
+A game by Tim Anderson, Marc Blank, Dave Lebling and Bruce Daniels,
+that I ported to Qt Creator.
 
 ![](pics/GameZork.png)
 
