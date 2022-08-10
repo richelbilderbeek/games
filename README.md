@@ -57,6 +57,10 @@ Ordered alphabetically
 ![](pics/GameConnectThree_5_2.png)
 ![](pics/GameConnectThree_6_0.png)
 
+### [Conquer Chess](https://github.com/richelbilderbeek/conquer_chess)
+
+![](pics/conquer_chess_20220807_1.png)
+
 ### [Corridor](https://github.com/richelbilderbeek/Corridor)
 
 ![](pics/GameCorridor.png)
