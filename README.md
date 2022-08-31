@@ -304,6 +304,8 @@ The games I wish I had made...
 
  * [https://rainwave.cc](https://rainwave.cc)
  * [http://www.rpgamers.net/](http://www.rpgamers.net/)
+ * [https://www.kohina.com/](https://www.kohina.com/)
+ * [https://stream.msxall.com/public/msxall](https://stream.msxall.com/public/msxall)
 
 ## Links to older games
 
