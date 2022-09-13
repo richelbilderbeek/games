@@ -212,6 +212,9 @@ that I ported to Qt Creator.
 
 ## Complete and maintained games
 
+I am in the process of using GitHub Actions for Continuous Integration.
+Project with a Travis CI build badge are not yet converted.
+
 ### C++
 
  * [![Build Status](https://travis-ci.org/richelbilderbeek/BeerWanter.svg?branch=master)](https://travis-ci.org/richelbilderbeek/BeerWanter) [![codecov.io](https://codecov.io/github/richelbilderbeek/BeerWanter/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/BeerWanter?branch=master) [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
