@@ -1,0 +1,151 @@
+site_name: Intro to Python for HPC
+repo_url: https://github.com/UPPMAX/naiss_intro_python
+edit_uri: blob/main/docs/
+
+nav:
+  - Start: index.md
+  - learning_outcomes.md
+  - prereqs/README.md
+  - course_dates.md
+  - schedule.md
+  - Getting it to run:
+    - sessions/introduction_getting_it_to_run.md
+    - sessions/using_the_python_interpreter.md
+    - sessions/working_with_python_scripts.md
+    - sessions/working_with_graphics.md
+  - Basic Python:
+    - Overview: sessions/introduction_basic_python.md
+    - The Way Of The Program: sessions/the_way_of_the_program.md
+    - Variables, expressions and statements, variables: sessions/variables_expressions_and_statements_1.md
+    - Variables, expressions and statements, operators: sessions/variables_expressions_and_statements_2.md
+    - Variables, expressions and statements, user input: sessions/variables_expressions_and_statements_3.md
+    - File IO: sessions/files.md
+    - Command-line arguments: sessions/command_line_arguments.md
+    - Summary: summary.md
+    - Further learning: further_learning.md
+  - Misc:
+    - acknowledgements.md
+    - All topics: topics.md
+    - Code of conduct: CODE_OF_CONDUCT.md
+    - Contributing: CONTRIBUTING.md
+    - Communication: communication/README.md
+    - Data: data/README.md
+    - Deploy locally: deploy_locally.md
+    - Evaluation: evaluation.md
+    - Evaluations:  evaluations/README.md
+    - Exercise procedure: misc/exercise_procedure.md
+    - Frequently asked questions: faq.md
+    - Lesson plans: lesson_plans/README.md
+    - Obsolete session 'Modules and Python packages': sessions/hello_little_turtles.md
+    - Obsolete and unfinished session 'Functions': sessions/functions.md
+    - Project: misc/project.md
+    - Reflections: reflections/README.md
+  - contact_us.md
+
+not_in_nav: |
+  communication/20250304/README.md
+  communication/20250304/newsletter_first_announcement.md
+  communication/20250304/registration_form.md
+  communication/20250304/reminder_email_1_week_left.md
+  communication/20250304/welcome_email.md
+  communication/20251014/README.md
+  communication/20251014/newsletter_first_announcement.md
+  communication/20251014/registration_form.md
+  communication/20251014/reminder_email_1_week_left.md
+  communication/20251014/welcome_email.md
+  communication/20251014/reminder_in_morning.md
+  data/20240830/README.md
+  data/20250304/README.md
+  data/20251014/README.md
+  evaluations/20240118/README.md
+  evaluations/20240830/README.md
+  evaluations/20250304/README.md
+  evaluations/20250424/README.md
+  evaluations/20250424/stats.md
+  evaluations/20251014/README.md
+  evaluations/20251127/README.md
+  lesson_plans/20240118/README.md
+  lesson_plans/20240830/README.md
+  lesson_plans/20250304/README.md
+  lesson_plans/20250424/README.md
+  lesson_plans/20251014/README.md
+  lesson_plans/20251127/README.md
+  misc/test_admonitions.md
+  misc/test_mermaid.md
+  reflections/20240118/README.md
+  reflections/20240830/README.md
+  reflections/20250304/README.md
+  reflections/20250424/README.md
+  reflections/20251014/README.md
+  reflections/20251127/README.md
+  sessions/graphics.md
+  sessions/hello_little_turtles.md
+
+theme:
+  name: material
+  greetings: Welcome to the Intro to Python course
+  font:
+    text: Lato
+    code: JetBrains Mono
+  logo: logo/naiss_logo_white.png
+  palette:
+    primary: indigo
+
+  # Keyboard shortcuts for navigation, from https://www.mkdocs.org/user-guide/choosing-your-theme/
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
+
+# For NAISS color gradient at top
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+  - admonition
+  - tables
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
