@@ -63,11 +63,11 @@ Ordered alphabetically
 
 ### [Corridor](https://github.com/gnudles/corridor)
 
-A game by gnudles, that I ported to Qt Creator.
+A game by `gnudles`, that I ported to Qt Creator.
 
 ![](pics/GameCorridor.png)
 
-### [DasWahreSchlagerfest](https://github.com/richelbilderbeek/DasWahreSchlagerfest)
+### [Das Wahre Schlagerfest](http://richelbilderbeek.github.io/das_wahre_schlagerfest/)
 
 ![](pics/GameDasWahreSchlagerfest_1_0.png)
 ![](pics/GameDasWahreSchlagerfest_2_2.png)
