@@ -1,13 +1,8 @@
 # Games
 
-My collection of games.
+This is Richèl Bilderbeek's collection of games.
 
-All these games are licenced under the GPL 3.0 licence.
-
-This page consists of:
-
-* Gallery: graphical overview of all my games
-* Build statuses: show the build statuses of all of my games
+All these games are free and open source software.
 
 ## Gallery
 
