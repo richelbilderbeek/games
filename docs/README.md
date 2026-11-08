@@ -93,7 +93,7 @@ A game I made together with Joost van den Bogaart.
 
 ![](pics/GameKnokFighter_1_0.png)
 
-### [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong)
+### [KnokFighter](https://richelbilderbeek.github.io/lonelier_pong/)
 
 ![Lonelier Pong](pics/GameLonelierPong_1_0.png)
 
@@ -105,8 +105,8 @@ A game by Joost van den Bogaart.
 
 ### [Maziak](https://github.com/richelbilderbeek/Maziak)
 
-![](pics/GameMaziak_1_3.png)
-![](pics/GameMaziak_2_0.png)
+![Maziak](pics/GameMaziak_1_3.png)
+![Maziak](pics/GameMaziak_2_0.png)
 
 ### [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
 
