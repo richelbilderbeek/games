@@ -91,7 +91,7 @@ A game by Rolf F. Storms.
 
 A game I made together with Joost van den Bogaart.
 
-![](pics/GameKnokfighter_1_0.png)
+![](pics/GameKnokFighter_1_0.png)
 
 ### [Lonelier Pong](https://github.com/richelbilderbeek/LonelierPong)
 
@@ -231,7 +231,7 @@ cross-platform using the Qt library.
 * [Boenken (VCL)](https://github.com/richelbilderbeek/BoenkenVcl)
 * [Das Wahre Schlagerfest (VCL)](https://github.com/richelbilderbeek/DasWahreSchlagerfestVcl)
 * [K3-Op-Een-Rij (VCL)](https://github.com/richelbilderbeek/K3OpEenRijVcl)
-* [Knokfighter (VCL)](https://github.com/richelbilderbeek/Knokfighter)
+* [KnokFighter (VCL)](https://github.com/richelbilderbeek/Knokfighter)
 * [Maziak (VCL)](https://github.com/richelbilderbeek/MaziakVcl)
 * [Met Z'n Drieen (VCL)](https://github.com/richelbilderbeek/MetZnDrieenVcl) (Dutch)
 * [PokeVolley (VCL)](https://github.com/richelbilderbeek/PokeVolleyVcl)
