@@ -16,7 +16,7 @@ Ordered alphabetically
 
 ![Beer Simulation Game](pics/beer_sim.png)
 
-### [BeerWanter](https://github.com/richelbilderbeek/BeerWanter)
+### [BeerWanter](https://richelbilderbeek.github.io/beer_wanter/)
 
 ![BeerWanter](pics/BeerWanter_7_4.png)
 
@@ -81,13 +81,13 @@ A game by Rolf F. Storms.
 
 ![Hunter Game](pics/hunter_game.png)
 
-### [K3-Op-Een-Rij](https://github.com/richelbilderbeek/K3OpEenRij)
+### [K3-Op-Een-Rij](https://richelbilderbeek.github.io/k3_op_een_rij/)
 
 ![K3-Op-Een-Rij](pics/GameK3OpEenRij_4_0.png)
 ![K3-Op-Een-Rij](pics/GameK3OpEenRij_5_0.png)
 ![K3-Op-Een-Rij](pics/GameK3OpEenRij_7_0.png)
 
-### [Knokfighter](https://github.com/richelbilderbeek/Knokfighter)
+### [KnokFighter](https://richelbilderbeek.github.io/knokfighter/)
 
 A game I made together with Joost van den Bogaart.
 
