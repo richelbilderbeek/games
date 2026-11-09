@@ -93,7 +93,7 @@ A game I made together with Joost van den Bogaart.
 
 ![](pics/GameKnokFighter_1_0.png)
 
-### [KnokFighter](https://richelbilderbeek.github.io/lonelier_pong/)
+### [Lonelier Pong](https://richelbilderbeek.github.io/lonelier_pong/)
 
 ![Lonelier Pong](pics/GameLonelierPong_1_0.png)
 
