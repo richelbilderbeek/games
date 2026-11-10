@@ -103,7 +103,7 @@ A game by Joost van den Bogaart.
 
 ![Martian Cafe Tuinema Tycoon](pics/GameMartianCafeTuinemaTycoon_1_0.png)
 
-### [Maziak](https://github.com/richelbilderbeek/Maziak)
+### [Maziak](https://richelbilderbeek.github.io/maziak/)
 
 ![Maziak](pics/GameMaziak_1_3.png)
 ![Maziak](pics/GameMaziak_2_0.png)
@@ -123,19 +123,19 @@ which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/)
 
 ![](pics/pong_3d.png)
 
-### [Pron](https://github.com/richelbilderbeek/Pron)
+### [Pron](https://richelbilderbeek.github.io/pron)
 
 ![](pics/GamePron_1_0.png)
 
-### [Prong](https://github.com/richelbilderbeek/Prong)
+### [Prong](https://richelbilderbeek.github.io/prong)
 
 ![](pics/GameProng_1_0.png)
 
-### [ProPokeVolley](https://github.com/richelbilderbeek/ProPokeVolley)
+### [ProPokeVolley](https://richelbilderbeek.github.io/ProPokeVolley)
 
 ![](pics/GameProPokeVolley_1_0.png)
 
-### [ProtonTank](https://github.com/richelbilderbeek/ProtonTank)
+### [ProtonTank](https://richelbilderbeek.github.io/ProtonTank)
 
 ![](pics/GameProtonTank_1_0.png)
 
@@ -145,11 +145,11 @@ A game by Joost van den Bogaart.
 
 ![](pics/GamePublicToiletManager_5_0.png)
 
-### [Pylos](https://github.com/richelbilderbeek/Pylos)
+### [Pylos](https://richelbilderbeek.github.io/pylos)
 
 ![](pics/GamePylos_2_1.png)
 
-### [Reversi](https://github.com/richelbilderbeek/Reversi)
+### [Reversi](https://richelbilderbeek.github.io/reversi)
 
 ![](pics/GameReversi_0_1.png)
 
@@ -157,12 +157,12 @@ A game by Joost van den Bogaart.
 
 ![](pics/GameReversiVcl_1_0.png)
 
-### [RubiksClock](https://github.com/richelbilderbeek/RubiksClock)
+### [RubiksClock](https://richelbilderbeek.github.io/RubiksClock)
 
 ![](pics/GameRubiksClock_2_1.png)
 ![](pics/GameRubiksClock_2_3.png)
 
-### [SearchAndDestroyChess](https://github.com/richelbilderbeek/SearchAndDestroyChess)
+### [SearchAndDestroyChess](https://richelbilderbeek.github.io/SearchAndDestroyChess)
 
 ![](pics/GameSearchAndDestroyChess_2_0.png)
 ![](pics/GameSearchAndDestroyChess_3_1.png)
@@ -187,7 +187,7 @@ by the DJOG Uno's 2020 team in Processing.
 ![](pics/GameTicTacToe_1_4.png)
 ![](pics/GameTicTacToe_1_5.png)
 
-### [TronCollection](https://github.com/richelbilderbeek/TronCollection)
+### [TronCollection](https://richelbilderbeek.github.io/TronCollection)
 
 ![](pics/GameTronCollectionClassicTron_0_9.png)
 ![](pics/GameTronCollectionSuperTron_0_9.png)
