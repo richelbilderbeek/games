@@ -1,3 +1,5 @@
+Bilderbeek's
+KnokFighter
 AminoAcidFighter
 Astro
 BeerWanter
