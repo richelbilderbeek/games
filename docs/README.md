@@ -10,7 +10,7 @@ Ordered alphabetically
 
 <!--
 
-### [Amino Acid Fighter](https://github.com/richelbilderbeek/AminoAcidFighter)
+### [Amino Acid Fighter](https://richelbilderbeek.github.io/AminoAcidFighter/)
 
 ![Amino Acid Fighter](pics/GameAminoAcidFighter_0_9.png)
 
@@ -26,7 +26,7 @@ Ordered alphabetically
 
 <!--
 
-### [BeerWanterVcl](https://github.com/richelbilderbeek/BeerWanterVcl)
+### [BeerWanterVcl](https://richelbilderbeek.github.io/BeerWanterVcl/)
 
 ![BeerWanter](pics/BeerWanterVcl_3_0.png)
 
@@ -57,7 +57,7 @@ Ordered alphabetically
 
 <!--
 
-### [Connect Three](https://github.com/richelbilderbeek/ConnectThree)
+### [Connect Three](https://richelbilderbeek.github.io/ConnectThree/)
 
 ![Connect Three](pics/GameConnectThree_5_2.png)
 ![Connect Three](pics/GameConnectThree_6_0.png)
@@ -93,7 +93,7 @@ A game I made together with Frode Lindeijer.
 ![Game of Life Fighter](pics/GameOfLifeFighterSfml20150925.png)
 ![Game of Life Fighter](pics/GameOfLifeFighterUrho3D20150925.png)
 
-### [Hunter Game](https://github.com/richelbilderbeek/hunter_game)
+### [Hunter Game](https://richelbilderbeek.github.io/hunter_game/)
 
 A game by Rolf F. Storms.
 
@@ -130,7 +130,7 @@ A game by Joost van den Bogaart.
 
 <!--
 
-### [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018)
+### [Nature Zen](https://richelbilderbeek.github.io/djog_unos_2018/)
 
 A god simulator by Team Octane,
 which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
@@ -138,7 +138,7 @@ which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/)
 ![](pics/NatureZen20190530.png)
 
 
-### [PokeVolley](https://github.com/richelbilderbeek/PokeVolleyVcl)
+### [PokeVolley](https://richelbilderbeek.github.io/PokeVolleyVcl/)
 
 ![](pics/GamePokeVolley_2_0.png)
 
@@ -180,7 +180,7 @@ A game by Joost van den Bogaart.
 
 <!--
 
-### [ReversiVcl](https://github.com/richelbilderbeek/ReversiVcl)
+### [ReversiVcl](https://richelbilderbeek.github.io/ReversiVcl/)
 
 ![](pics/GameReversiVcl_1_0.png)
 
@@ -213,7 +213,7 @@ by the DJOG Uno's 2020 team in Processing.
 
 ![](pics/TankBattalion20201213.png)
 
-### [TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
+### [TicTacToe](https://richelbilderbeek.github.io/TicTacToe/)
 
 ![](pics/GameTicTacToe_1_4.png)
 ![](pics/GameTicTacToe_1_5.png)
@@ -227,13 +227,13 @@ by the DJOG Uno's 2020 team in Processing.
 
 <!--
 
-### [WizardBattle](https://github.com/richelbilderbeek/WizardBattle)
+### [WizardBattle](https://richelbilderbeek.github.io/WizardBattle/)
 
 A game by Joost van den Bogaart.
 
 ![](pics/GameWizardBattle_1_0.png)
 
-### [Zork](https://github.com/richelbilderbeek/Zork)
+### [Zork](https://richelbilderbeek.github.io/Zork/)
 
 A game by Tim Anderson, Marc Blank, Dave Lebling and Bruce Daniels,
 that I ported to Qt Creator.
@@ -264,20 +264,20 @@ Project with a Travis CI build badge are not yet converted.
 Most of these use the Windows-only VCL library. Most of these I made
 cross-platform using the Qt library.
 
-* [BeerWanter (VCL)](https://github.com/richelbilderbeek/BeerWanterVcl)
-* [Boenken (VCL)](https://github.com/richelbilderbeek/BoenkenVcl)
-* [Das Wahre Schlagerfest (VCL)](https://github.com/richelbilderbeek/DasWahreSchlagerfestVcl)
-* [K3-Op-Een-Rij (VCL)](https://github.com/richelbilderbeek/K3OpEenRijVcl)
-* [KnokFighter (VCL)](https://github.com/richelbilderbeek/Knokfighter)
-* [Maziak (VCL)](https://github.com/richelbilderbeek/MaziakVcl)
-* [Met Z'n Drieen (VCL)](https://github.com/richelbilderbeek/MetZnDrieenVcl) (Dutch)
-* [PokeVolley (VCL)](https://github.com/richelbilderbeek/PokeVolleyVcl)
-* [Reversi Console (VCL)](https://github.com/richelbilderbeek/ReversiConsoleVcl)
-* [Rubik's Clock (VCL)](https://github.com/richelbilderbeek/RubiksClockVcl)
-* [SearchAndDestroyChess (VCL)](https://github.com/richelbilderbeek/SearchAndDestroyChessVcl)
-* [SimPredator (VCL)](https://github.com/richelbilderbeek/SimPredator)
-* [SpaceHarry (VCL)](https://github.com/richelbilderbeek/SpaceHarry)
-* [The Tron Collection (VCL)](https://github.com/richelbilderbeek/TronCollectionVcl)
+* [BeerWanter (VCL)](https://richelbilderbeek.github.io/BeerWanterVcl/)
+* [Boenken (VCL)](https://richelbilderbeek.github.io/BoenkenVcl/)
+* [Das Wahre Schlagerfest (VCL)](https://richelbilderbeek.github.io/DasWahreSchlagerfestVcl/)
+* [K3-Op-Een-Rij (VCL)](https://richelbilderbeek.github.io/K3OpEenRijVcl/)
+* [KnokFighter (VCL)](https://richelbilderbeek.github.io/knokfighter/)
+* [Maziak (VCL)](https://richelbilderbeek.github.io/MaziakVcl/)
+* [Met Z'n Drieen (VCL)](https://richelbilderbeek.github.io/MetZnDrieenVcl/) (Dutch)
+* [PokeVolley (VCL)](https://richelbilderbeek.github.io/PokeVolleyVcl/)
+* [Reversi Console (VCL)](https://richelbilderbeek.github.io/ReversiConsoleVcl/)
+* [Rubik's Clock (VCL)](https://richelbilderbeek.github.io/RubiksClockVcl/)
+* [SearchAndDestroyChess (VCL)](https://richelbilderbeek.github.io/SearchAndDestroyChessVcl/)
+* [SimPredator (VCL)](https://richelbilderbeek.github.io/SimPredator/)
+* [SpaceHarry (VCL)](https://richelbilderbeek.github.io/SpaceHarry/)
+* [The Tron Collection (VCL)](https://richelbilderbeek.github.io/TronCollectionVcl/)
 
 ## Completed games by others that I ported
 
@@ -289,29 +289,29 @@ The games I wish I had made, and had to port myself to enjoy them.
 The games made by others I host the code of. No coding from me was
 involved in these games.
 
-* [Martian Cafe Tuinema Tycoon](https://github.com/richelbilderbeek/MartianCafeTuinemaTycoon)
-* [Public Toilet Manager 5](https://github.com/richelbilderbeek/PublicToiletManager)
-* [Wizard Battle](https://github.com/richelbilderbeek/WizardBattle)
+* [Martian Cafe Tuinema Tycoon](https://richelbilderbeek.github.io/MartianCafeTuinemaTycoon/)
+* [Public Toilet Manager 5](https://richelbilderbeek.github.io/PublicToiletManager/)
+* [Wizard Battle](https://richelbilderbeek.github.io/WizardBattle/)
 
 ## Games by others I cheated at
 
 The games made by others that I created a cheat or trainer for.
 
 * [Astro Menace](https://github.com/richelbilderbeek/AstroMenaceCheat)
-* [Breath Of Fire 2](https://github.com/richelbilderbeek/BreathOfFire2Trainer)
+* [Breath Of Fire 2](https://richelbilderbeek.github.io/BreathOfFire2Trainer/)
 
 ## Games by others
 
 The games I wish I had made...
 
-* [Meritous](https://github.com/richelbilderbeek/Meritous)
+* [Meritous](https://richelbilderbeek.github.io/Meritous/)
 
 ## Incomplete and maintained
 
-* [Dissolved](https://github.com/richelbilderbeek/Dissolved)
-* [Eukaryote](https://github.com/richelbilderbeek/Eukaryote)
-* [EverythingToPiecesShooter](https://github.com/richelbilderbeek/EverythingToPiecesShooter)
-* [XeNonZero](https://github.com/richelbilderbeek/XeNonZero)
+* [Dissolved](https://richelbilderbeek.github.io/Dissolved/)
+* [Eukaryote](https://richelbilderbeek.github.io/Eukaryote/)
+* [EverythingToPiecesShooter](https://richelbilderbeek.github.io/EverythingToPiecesShooter/)
+* [XeNonZero](https://richelbilderbeek.github.io/XeNonZero/)
 
 ## Online radio's
 
