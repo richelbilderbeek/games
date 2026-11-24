@@ -8,13 +8,9 @@ All these games are free and open source software.
 
 Ordered alphabetically
 
-<!--
-
 ### [Amino Acid Fighter](https://richelbilderbeek.github.io/AminoAcidFighter/)
 
 ![Amino Acid Fighter](pics/GameAminoAcidFighter_0_9.png)
-
---> 
 
 ### [Beer Simulation Game](https://richelbilderbeek.github.io/beer_sim)
 
@@ -24,13 +20,9 @@ Ordered alphabetically
 
 ![BeerWanter](pics/BeerWanter_7_4.png)
 
-<!--
-
 ### [BeerWanterVcl](https://richelbilderbeek.github.io/BeerWanterVcl/)
 
 ![BeerWanter](pics/BeerWanterVcl_3_0.png)
-
--->
 
 ### [BeerWanter 2](https://richelbilderbeek.github.io/BeerWanter2)
 
@@ -55,14 +47,10 @@ Ordered alphabetically
 ![City of Thieves](pics/GameCityOfThievesConsole.png)
 ![City of Thieves](pics/GameCityOfThievesDesktop.png)
 
-<!--
-
 ### [Connect Three](https://richelbilderbeek.github.io/ConnectThree/)
 
 ![Connect Three](pics/GameConnectThree_5_2.png)
 ![Connect Three](pics/GameConnectThree_6_0.png)
-
--->
 
 ### [Conquer Chess](https://richelbilderbeek.github.io/conquer_chess)
 
@@ -93,13 +81,13 @@ A game I made together with Frode Lindeijer.
 ![Game of Life Fighter](pics/GameOfLifeFighterSfml20150925.png)
 ![Game of Life Fighter](pics/GameOfLifeFighterUrho3D20150925.png)
 
+-->
+
 ### [Hunter Game](https://richelbilderbeek.github.io/hunter_game/)
 
 A game by Rolf F. Storms.
 
 ![Hunter Game](pics/hunter_game.png)
-
--->
 
 ### [K3-Op-Een-Rij](https://richelbilderbeek.github.io/k3_op_een_rij/)
 
@@ -128,8 +116,6 @@ A game by Joost van den Bogaart.
 ![Maziak](pics/GameMaziak_1_3.png)
 ![Maziak](pics/GameMaziak_2_0.png)
 
-<!--
-
 ### [Nature Zen](https://richelbilderbeek.github.io/djog_unos_2018/)
 
 A god simulator by Team Octane,
@@ -137,12 +123,9 @@ which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/)
 
 ![](pics/NatureZen20190530.png)
 
-
 ### [PokeVolley](https://richelbilderbeek.github.io/PokeVolleyVcl/)
 
 ![](pics/GamePokeVolley_2_0.png)
-
--->
 
 ### [Pong 3D](https://richelbilderbeek.github.io/pong_3d)
 
@@ -178,13 +161,9 @@ A game by Joost van den Bogaart.
 
 ![](pics/GameReversi_0_1.png)
 
-<!--
-
 ### [ReversiVcl](https://richelbilderbeek.github.io/ReversiVcl/)
 
 ![](pics/GameReversiVcl_1_0.png)
-
--->
 
 ### [RubiksClock](https://richelbilderbeek.github.io/RubiksClock)
 
@@ -213,19 +192,17 @@ by the DJOG Uno's 2020 team in Processing.
 
 ![](pics/TankBattalion20201213.png)
 
+-->
+
 ### [TicTacToe](https://richelbilderbeek.github.io/TicTacToe/)
 
 ![](pics/GameTicTacToe_1_4.png)
 ![](pics/GameTicTacToe_1_5.png)
 
--->
-
 ### [TronCollection](https://richelbilderbeek.github.io/TronCollection)
 
 ![](pics/GameTronCollectionClassicTron_0_9.png)
 ![](pics/GameTronCollectionSuperTron_0_9.png)
-
-<!--
 
 ### [WizardBattle](https://richelbilderbeek.github.io/WizardBattle/)
 
@@ -240,8 +217,6 @@ that I ported to Qt Creator.
 
 ![](pics/GameZork.png)
 
--->
-
 ## Complete and maintained games
 
 I am in the process of using GitHub Actions for Continuous Integration.
@@ -249,15 +224,11 @@ Project with a Travis CI build badge are not yet converted.
 
 ### C++
 
-
 * ![check](https://github.com/richelbilderbeek/city_of_thieves/workflows/check/badge.svg?branch=master)
-
 
 ### Processing
 
-
 ## Incomplete and actively worked on
-
 
 ## Complete, but unmaintained games
 
@@ -282,7 +253,6 @@ cross-platform using the Qt library.
 ## Completed games by others that I ported
 
 The games I wish I had made, and had to port myself to enjoy them.
-
 
 ## Games by others that I host the code of
 
