@@ -185,7 +185,7 @@ A game by Joost van den Bogaart.
 
 <!--
 
-### [Tank Battalion](https://github.com/djog/tank_battalion)
+### [Tank Battalion](https://djog.github.io/tank_battalion/)
 
 A recreation of the arcade game Tank Battalion
 by the DJOG Uno's 2020 team in Processing.
@@ -267,7 +267,7 @@ involved in these games.
 
 The games made by others that I created a cheat or trainer for.
 
-* [Astro Menace](https://github.com/richelbilderbeek/AstroMenaceCheat)
+* [Astro Menace](https://richelbilderbeek.github.io/astro_menace_cheat/)
 * [Breath Of Fire 2](https://richelbilderbeek.github.io/BreathOfFire2Trainer/)
 
 ## Games by others
