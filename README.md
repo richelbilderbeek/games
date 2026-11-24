@@ -9,7 +9,7 @@
 
 <!-- markdownlint-enable MD013 -->
 
-- [Go to the nicely rendered site](https://uppmax.github.io/games/)
+- [Go to the nicely rendered site](https://richelbilderbeek.github.io/games/)
 
 ## Files used by continuous integration scripts
 

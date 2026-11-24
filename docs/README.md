@@ -183,16 +183,12 @@ A game by Joost van den Bogaart.
 
 ![](pics/GameSpaceHarry_1_0.png)
 
-<!--
-
 ### [Tank Battalion](https://djog.github.io/tank_battalion/)
 
 A recreation of the arcade game Tank Battalion
 by the DJOG Uno's 2020 team in Processing.
 
 ![](pics/TankBattalion20201213.png)
-
--->
 
 ### [TicTacToe](https://richelbilderbeek.github.io/TicTacToe/)
 
