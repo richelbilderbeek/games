@@ -24,7 +24,7 @@ Ordered alphabetically
 
 ![BeerWanter](pics/BeerWanterVcl_3_0.png)
 
-### [BeerWanter 2](https://richelbilderbeek.github.io/BeerWanter2)
+### [BeerWanter 2](https://richelbilderbeek.github.io/beer_wanter_2/)
 
 ![BeerWanter 2](pics/GameBeerWanter2.png)
 
@@ -32,10 +32,10 @@ Ordered alphabetically
 
 ![Black Box](pics/black_box.png)
 
-### [Boenken](https://richelbilderbeek.github.io/boenken)
+### [Boenken](https://richelbilderbeek.github.io/Boenken/)
 
-![](pics/GameBoenken_1_0.png)
-![](pics/GameBoenken_4_1.png)
+![Boenken](pics/GameBoenken_1_0.png)
+![Boenken](pics/GameBoenken_4_1.png)
 
 ### [Carnaval Tic-Tac-Toe](https://richelbilderbeek.github.io/carnaval_tic_tac_toe/)
 
@@ -54,7 +54,7 @@ Ordered alphabetically
 
 ### [Conquer Chess](https://richelbilderbeek.github.io/conquer_chess)
 
-![](pics/conquer_chess_20220807_1.png)
+![Conquer Chess](pics/conquer_chess_20220807_1.png)
 
 <!--
 
@@ -99,7 +99,7 @@ A game by Rolf F. Storms.
 
 A game I made together with Joost van den Bogaart.
 
-![](pics/GameKnokFighter_1_0.png)
+![KnokFighter](pics/GameKnokFighter_1_0.png)
 
 ### [Lonelier Pong](https://richelbilderbeek.github.io/lonelier_pong/)
 
@@ -121,97 +121,97 @@ A game by Joost van den Bogaart.
 A god simulator by Team Octane,
 which was put on [Steam](https://store.steampowered.com/app/1080960/Nature_Zen/).
 
-![](pics/NatureZen20190530.png)
+![Nature Zen](pics/NatureZen20190530.png)
 
 ### [PokeVolley](https://richelbilderbeek.github.io/PokeVolleyVcl/)
 
-![](pics/GamePokeVolley_2_0.png)
+![PokeVolley](pics/GamePokeVolley_2_0.png)
 
 ### [Pong 3D](https://richelbilderbeek.github.io/pong_3d)
 
-![](pics/pong_3d.png)
+![Pong 3D](pics/pong_3d.png)
 
 ### [Pron](https://richelbilderbeek.github.io/pron)
 
-![](pics/GamePron_1_0.png)
+![Pron](pics/GamePron_1_0.png)
 
 ### [Prong](https://richelbilderbeek.github.io/prong)
 
-![](pics/GameProng_1_0.png)
+![Prong](pics/GameProng_1_0.png)
 
 ### [ProPokeVolley](https://richelbilderbeek.github.io/ProPokeVolley)
 
-![](pics/GameProPokeVolley_1_0.png)
+![ProPokeVolley](pics/GameProPokeVolley_1_0.png)
 
 ### [ProtonTank](https://richelbilderbeek.github.io/ProtonTank)
 
-![](pics/GameProtonTank_1_0.png)
+![ProtonTank](pics/GameProtonTank_1_0.png)
 
 ### [PublicToiletManager](https://richelbilderbeek.github.io/PublicToiletManager)
 
 A game by Joost van den Bogaart.
 
-![](pics/GamePublicToiletManager_5_0.png)
+![PublicToiletManager](pics/GamePublicToiletManager_5_0.png)
 
 ### [Pylos](https://richelbilderbeek.github.io/pylos)
 
-![](pics/GamePylos_2_1.png)
+![Pylos](pics/GamePylos_2_1.png)
 
 ### [Reversi](https://richelbilderbeek.github.io/reversi)
 
-![](pics/GameReversi_0_1.png)
+![Reversi](pics/GameReversi_0_1.png)
 
 ### [ReversiVcl](https://richelbilderbeek.github.io/ReversiVcl/)
 
-![](pics/GameReversiVcl_1_0.png)
+![ReversiVcl](pics/GameReversiVcl_1_0.png)
 
 ### [RubiksClock](https://richelbilderbeek.github.io/RubiksClock)
 
-![](pics/GameRubiksClock_2_1.png)
-![](pics/GameRubiksClock_2_3.png)
+![RubiksClock](pics/GameRubiksClock_2_1.png)
+![RubiksClock](pics/GameRubiksClock_2_3.png)
 
 ### [SearchAndDestroyChess](https://richelbilderbeek.github.io/SearchAndDestroyChess)
 
-![](pics/GameSearchAndDestroyChess_2_0.png)
-![](pics/GameSearchAndDestroyChess_3_1.png)
+![SearchAndDestroyChess](pics/GameSearchAndDestroyChess_2_0.png)
+![SearchAndDestroyChess](pics/GameSearchAndDestroyChess_3_1.png)
 
 ### [Sim Equation](https://richelbilderbeek.github.io/sim_equation)
 
-![](pics/sim_equation.png)
+![Sim Equation](pics/sim_equation.png)
 
 ### [SpaceHarry](https://richelbilderbeek.github.io/SpaceHarry)
 
-![](pics/GameSpaceHarry_1_0.png)
+![SpaceHarry](pics/GameSpaceHarry_1_0.png)
 
 ### [Tank Battalion](https://djog.github.io/tank_battalion/)
 
 A recreation of the arcade game Tank Battalion
 by the DJOG Uno's 2020 team in Processing.
 
-![](pics/TankBattalion20201213.png)
+![Tank Battalion](pics/TankBattalion20201213.png)
 
 ### [TicTacToe](https://richelbilderbeek.github.io/TicTacToe/)
 
-![](pics/GameTicTacToe_1_4.png)
-![](pics/GameTicTacToe_1_5.png)
+![TicTacToe](pics/GameTicTacToe_1_4.png)
+![TicTacToe](pics/GameTicTacToe_1_5.png)
 
-### [TronCollection](https://richelbilderbeek.github.io/TronCollection)
+### [TronCollection](https://richelbilderbeek.github.io/tron_collection/)
 
-![](pics/GameTronCollectionClassicTron_0_9.png)
-![](pics/GameTronCollectionSuperTron_0_9.png)
+![TronCollection](pics/GameTronCollectionClassicTron_0_9.png)
+![TronCollection](pics/GameTronCollectionSuperTron_0_9.png)
 
 ### [WizardBattle](https://richelbilderbeek.github.io/WizardBattle/)
 
 A game by Joost van den Bogaart.
 
-![](pics/GameWizardBattle_1_0.png)
+![WizardBattle](pics/GameWizardBattle_1_0.png)
 
 ### [Zork](https://richelbilderbeek.github.io/Zork/)
 
 A game by Tim Anderson, Marc Blank, Dave Lebling and Bruce Daniels,
 that I ported to Qt Creator.
 
-![](pics/GameZork.png)
+![Zork](pics/GameZork.png)
 
 ## Complete and maintained games
 
@@ -220,7 +220,7 @@ Project with a Travis CI build badge are not yet converted.
 
 ### C++
 
-* ![check](https://github.com/richelbilderbeek/city_of_thieves/workflows/check/badge.svg?branch=master)
+* ![check](https://github.com/richelbilderbeek/city_of_thieves/actions/workflows/check_build.yaml/badge.svg)
 
 ### Processing
 
@@ -270,14 +270,14 @@ The games made by others that I created a cheat or trainer for.
 
 The games I wish I had made...
 
-* [Meritous](https://richelbilderbeek.github.io/Meritous/)
+* [Meritous](https://richelbilderbeek.github.io/meritous/)
 
 ## Incomplete and maintained
 
-* [Dissolved](https://richelbilderbeek.github.io/Dissolved/)
-* [Eukaryote](https://richelbilderbeek.github.io/Eukaryote/)
+* [Dissolved](https://richelbilderbeek.github.io/dissolved/)
+* [Eukaryote](https://richelbilderbeek.github.io/eukaryote/)
 * [EverythingToPiecesShooter](https://richelbilderbeek.github.io/EverythingToPiecesShooter/)
-* [XeNonZero](https://richelbilderbeek.github.io/XeNonZero/)
+* [XeNonZero](https://richelbilderbeek.github.io/xenonzero/)
 
 ## Online radio's
 
