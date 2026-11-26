@@ -66,7 +66,7 @@ A game by `gnudles`, that I ported to Qt Creator.
 
 -->
 
-### [Das Wahre Schlagerfest](http://richelbilderbeek.github.io/das_wahre_schlagerfest/)
+### [Das Wahre Schlagerfest](https://richelbilderbeek.github.io/das_wahre_schlagerfest/)
 
 ![Das Wahre Schlagerfest](pics/GameDasWahreSchlagerfest_1_0.png)
 ![Das Wahre Schlagerfest](pics/GameDasWahreSchlagerfest_2_2.png)
