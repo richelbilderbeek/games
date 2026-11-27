@@ -5,7 +5,8 @@ repo_url = "https://github.com/richelbilderbeek/games"
 edit_uri = "blob/main/docs/"
 
 nav = [
-  { "Start" = "README.md"}
+  { "Start" = "README.md"},
+  { "Statuses" = "statuses.md"}
 ]
 
 [project.theme]
