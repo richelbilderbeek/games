@@ -6,6 +6,10 @@ edit_uri = "blob/main/docs/"
 
 nav = [
   { "Start" = "README.md"},
+  #"my_games.md",
+  #"my_obsolete_games.md",
+  #"games_i_host.md",
+  #"concepts_of_games.md",
   { "Statuses" = "statuses.md"}
 ]
 
